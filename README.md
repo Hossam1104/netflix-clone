@@ -1,6 +1,6 @@
 # Netflix Clone App
 
-This project is a clone of netflix movie app created with TMDB APIs and Firebase
+This project is a clone of netflix movie app created with React JS, TMDB APIs and Firebase
 
 ## Note
 
