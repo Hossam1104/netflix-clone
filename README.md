@@ -1,3 +1,11 @@
+# Netflix Clone App
+
+This project is a clone of netflix movie app created with TMDB APIs and Firebase
+
+## Note
+
+This project is just to show some information and trailers for movies not to actually stream them
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
